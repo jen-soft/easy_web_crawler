@@ -1,10 +1,12 @@
 # Easy example of crawler based on scrapy
-
+[download easy_web_crawler-master.zip](https://github.com/jen-soft/easy_web_crawler/archive/master.zip)
 
 ## quick start
-    create virtual env
+    clone repo
+        git clone https://github.com/jen-soft/easy_web_crawler.git
+        cd easy_web_crawler
+    create virtual env and activate
         virtualenv --system-site-packages --python="/usr/bin/python2.7" --prompt="(env: ${PWD##*/})" env
-    activate env
         source env/bin/activate
     install scrapy
         pip install Scrapy
@@ -28,6 +30,9 @@
 
 ## The MIT License
     https://opensource.org/licenses/MIT
+
+## for your requests/questions (public)
+    https://github.com/jen-soft/easy_web_crawler/issues
 
 
 ## developed by Jen-Soft
