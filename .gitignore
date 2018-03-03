@@ -1,0 +1,10 @@
+.idea/
+env/
+
+*.log
+*.pyc
+
+*.*~
+
+data/
+!*/.dummy
