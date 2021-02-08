@@ -23,7 +23,7 @@ eyeD3==0.6.18
 Fabric==1.14.0
 functools32==3.2.3.post2
 html5lib==0.999
-httplib2==0.8
+httplib2==0.19.0
 hyperlink==18.0.0
 idna==2.6
 incremental==17.5.0
