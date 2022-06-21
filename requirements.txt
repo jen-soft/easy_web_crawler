@@ -32,7 +32,7 @@ ipaddress==1.0.18
 jack==3.1.1
 jsonschema==2.6.0
 lxml==4.1.1
-numpy==1.8.2
+numpy==1.22.0
 oauthlib==0.6.1
 openshot==1.4.3
 PAM==0.4.2
